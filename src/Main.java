@@ -13,7 +13,7 @@ public class Main {
 
         if(seconds < 0){
             return "Invalid data for seconds(" + seconds
-                    + "), must be a positive iteger value";
+                    + "), must be a positive integer value";
         }
 
         return getDurationString (seconds / 60, seconds % 60);
@@ -21,9 +21,9 @@ public class Main {
 
     public static String getDurationString(int minutes,int seconds) {
 
-        if(minutes< 0){
+        if (minutes < 0) {
             return "Invalid data for minutes(" + minutes
-                    + "), must be a positive iteger value";
+                    + "), must be a positive integer value";
         }
 
         if (seconds <= 0 || seconds >= 59) {

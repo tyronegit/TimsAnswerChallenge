@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8736b14-8a53-429c-bcde-40697f0d43df" name="Changes" comment="New validation code" />
+    <list default="true" id="c8736b14-8a53-429c-bcde-40697f0d43df" name="Changes" comment="changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -59,7 +62,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c8736b14-8a53-429c-bcde-40697f0d43df" name="Changes" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1712969602294</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -89,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713053494867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes">
+      <option name="closed" value="true" />
+      <created>1713053765217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713053765217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +117,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Modified with invalid data code." />
     <MESSAGE value="Modified with one code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified with one code." />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
